@@ -1,1 +1,2 @@
-File Pr chạy code RFM và ra kết quả next purchase date
+Hoàn thành được next Purchase date(trong file final), còn category sử dụng linear và SSA đã chạy được theo các code nma kết quả đầu ra rất thấp không đáp ứng yêu cầu nên cần sửa lại và fix thêm (có thể có trong file Calmdown ă). Các file còn lại là mấy file t code thử với làm dữ liệu nên t cũng đẩy lên luôn
+Thứ hai là, kết quả đầu ra của Category nó không theo từng khách hàng được tại vì nếu như vậy thì nó hok có mang tính Predict và Forecasting gì hết, mà nó chỉ dựa vào cái khách hàng mua nhiều nhất thôi, nên mấy cái thuật toán t đang dùng nó sẽ vẽ tiếp đồ thị dựa trên datasets của mình theo từng ngành hàng á.
